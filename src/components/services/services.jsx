@@ -4,7 +4,7 @@ import {BiCheck} from 'react-icons/bi'
 const services = () => {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
+      <h5>What I Can Offer</h5>
       <h2>Service</h2>
 
       <div className="container services__container">
@@ -16,11 +16,11 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Cooking Instructor App</p>
+              <p>DashBoard App</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Connect Paw App</p>
+              <p>Mobile App</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
@@ -37,40 +37,40 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Cooking Instructor App</p>
+              <p>DashBoard App</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Connect Paw App</p>
+              <p>ToDoList App</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Hiking App</p>
+              <p>Movie Quote</p>
             </li>
           </ul>
         </article>
         {/*------End of Web Development------*/}
         <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Pilot Licence Consulting</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Cooking Instructor App</p>
+              <p>Commercial Pilot Licence</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Connect Paw App</p>
+              <p>Instrument Rating</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Hiking App</p>
+              <p>Aviation Career</p>
             </li>
           </ul>
         </article>
-        {/*------End of Content Creation------*/}
+        {/*------Pilot Licence Consulting------*/}
       </div>
 
     </section>

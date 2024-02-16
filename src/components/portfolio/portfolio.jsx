@@ -18,10 +18,10 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
           </div>
 
-          <h3>Portfolio title</h3>
+          <h3>Dashboard-admin</h3>
           <div className="portfolio__item-cta">
-            <a href="http//github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/wkl761212/Dashboard-admin" className='btn'>Github</a>
+            
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -29,10 +29,10 @@ const Portfolio = () => {
             <img src={IMG2} alt="" />
           </div>
 
-          <h3>Portfolio title</h3>
+          <h3>MyMobileAppProject</h3>
           <div className="portfolio__item-cta">
-            <a href="http//github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/wkl761212/MyMobileAppProject" className='btn'>Github</a>
+            
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -40,10 +40,10 @@ const Portfolio = () => {
             <img src={IMG3} alt="" />
           </div>
 
-          <h3>Portfolio title</h3>
+          <h3>TodoApp</h3>
           <div className="portfolio__item-cta">
-            <a href="http//github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/wkl761212/TodoApp" className='btn'>Github</a>
+            
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -51,10 +51,10 @@ const Portfolio = () => {
             <img src={IMG4} alt="" />
           </div>
 
-          <h3>Portfolio title</h3>
+          <h3>moviequote</h3>
           <div className="portfolio__item-cta">
-            <a href="http//github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/wkl761212/moviequote" className='btn'>Github</a>
+            
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -62,23 +62,13 @@ const Portfolio = () => {
             <img src={IMG5} alt="" />
           </div>
 
-          <h3>Portfolio title</h3>
+          <h3>Portfolio-website</h3>
           <div className="portfolio__item-cta">
-            <a href="http//github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/wkl761212/react-portfolio-website-1" className='btn'>Github</a>
+            
           </div>
         </artical>
-        <artical className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG6} alt="" />
-          </div>
-
-          <h3>Portfolio title</h3>
-          <div className="portfolio__item-cta">
-            <a href="http//github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </artical>
+        
       </div>
     </section>
   )
