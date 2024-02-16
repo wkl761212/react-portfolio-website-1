@@ -37,8 +37,12 @@ const About = () => {
           </div>
           <p>
             
-Hello, I'm Greg, currently a student of software development at SAIT. I have a strong passion for acquiring new knowledge and keeping myself updated with the latest advancements in the field. Collaborative environments bring out the best in me as I enjoy being a team player and providing support to my peers. In my previous role as a flight instructor, I had the opportunity to refine my communication and leadership skills. This experience taught me valuable lessons in patience, adaptability, and effective mentorship. I am enthusiastic about leveraging my diverse background to further my personal and professional growth within the realm of software development.
+Hello, I'm Greg, currently a student of software development at SAIT. I have a strong passion for acquiring new knowledge and keeping myself updated with the latest advancements in the field. Collaborative environments bring out the best in me as I enjoy being a team player and providing support to my peers. 
           </p>
+          <p>
+            
+          </p>
+          <p>In my previous role as a flight instructor, I had the opportunity to refine my communication and leadership skills. This experience taught me valuable lessons in patience, adaptability, and effective mentorship. I am enthusiastic about leveraging my diverse background to further my personal and professional growth within the realm of software development.</p>
 
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
 
